@@ -1,0 +1,1 @@
+Extract ZIP. Upload index.html, game.js, style.css and the assets folder to repository root. Enable Pages from main / (root). Requires internet for Three.js CDN. Only distribute media you have permission to share. Existing local saves do not automatically transfer to hosted site.
